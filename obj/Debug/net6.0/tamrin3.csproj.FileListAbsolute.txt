@@ -1,0 +1,15 @@
+C:\Users\milad\OneDrive\Desktop\tamrin3\bin\Debug\net6.0\tamrin3.exe
+C:\Users\milad\OneDrive\Desktop\tamrin3\bin\Debug\net6.0\tamrin3.deps.json
+C:\Users\milad\OneDrive\Desktop\tamrin3\bin\Debug\net6.0\tamrin3.runtimeconfig.json
+C:\Users\milad\OneDrive\Desktop\tamrin3\bin\Debug\net6.0\tamrin3.dll
+C:\Users\milad\OneDrive\Desktop\tamrin3\bin\Debug\net6.0\tamrin3.pdb
+C:\Users\milad\OneDrive\Desktop\tamrin3\obj\Debug\net6.0\tamrin3.csproj.AssemblyReference.cache
+C:\Users\milad\OneDrive\Desktop\tamrin3\obj\Debug\net6.0\tamrin3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milad\OneDrive\Desktop\tamrin3\obj\Debug\net6.0\tamrin3.AssemblyInfoInputs.cache
+C:\Users\milad\OneDrive\Desktop\tamrin3\obj\Debug\net6.0\tamrin3.AssemblyInfo.cs
+C:\Users\milad\OneDrive\Desktop\tamrin3\obj\Debug\net6.0\tamrin3.csproj.CoreCompileInputs.cache
+C:\Users\milad\OneDrive\Desktop\tamrin3\obj\Debug\net6.0\tamrin3.dll
+C:\Users\milad\OneDrive\Desktop\tamrin3\obj\Debug\net6.0\refint\tamrin3.dll
+C:\Users\milad\OneDrive\Desktop\tamrin3\obj\Debug\net6.0\tamrin3.pdb
+C:\Users\milad\OneDrive\Desktop\tamrin3\obj\Debug\net6.0\tamrin3.genruntimeconfig.cache
+C:\Users\milad\OneDrive\Desktop\tamrin3\obj\Debug\net6.0\ref\tamrin3.dll
